@@ -4,3 +4,4 @@ An all-in-one student organization platform streamlining event management, atten
 ## Features
 
 ## Tech Stack
+Dart, Python, PostgreSQL 
